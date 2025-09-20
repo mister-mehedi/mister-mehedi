@@ -1,6 +1,6 @@
 # Md Mehedi Hasan
 
-**Junior Programmer 👨‍💻**
+**Junior Programmer 👨‍💻 | Spring Boot l Node | React | Docker**
 <!--**Junior Programmer | Data Enthusiast | Competitive Coder**-->
 
 [![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
@@ -13,7 +13,8 @@
 
 ## About Me
 
-I am a recent BSc graduate in Computer Science and Engineering from North South University (2020–2025), currently working as a Junior Programmer at Opus Technology Ltd. on a Business Intelligence project for Teletalk Bangladesh Ltd. I  proficient in backend development (Spring Boot, SQL), data processing (ETL, Tableau), and machine learning research, with strong competitive programming skills (1000+ problems solved) and achievements in ICPC contests. My projects include secure REST APIs, learning management systems, and interactive web apps using React and Java.
+🎓 CSE graduate from North South University, now Junior Programmer at Opus Technology Ltd. Skilled in backend (Spring Boot, SQL), data processing (ETL, Tableau), and Machine Learning research. Solved 1000+ competitive programming problems with ICPC achievements. Built secure REST APIs, LMS platforms, and React-based web apps.
+
 <!--
 - 🔭 **Currently working on:** BI automation, ETL workflows, and interactive dashboards
 - 🌱 **Learning:** Advanced data engineering and machine learning techniques
@@ -24,6 +25,7 @@ I am a recent BSc graduate in Computer Science and Engineering from North South 
 ---
 
 ## 🛠️ Technical Skills
+>“Code is poetry with purpose.”🚀
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -111,4 +113,6 @@ Browser-based word guessing game with intuitive keyboard and UI controls.
 - 🏆 Codeforces: [mehedieyh](https://codeforces.com/profile/mister_mehedi)
 - 🟨 LeetCode: [mister-mehedi](https://leetcode.com/u/mister_mehedi/)
 
+<!--
 ⭐️ From [mister-mehedi](https://github.com/mister-mehedi)
+-->
