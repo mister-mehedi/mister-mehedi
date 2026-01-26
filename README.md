@@ -5,9 +5,10 @@
 
 [![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Mehedi_Hasan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedieyh/)
-
+<!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-mister--mehedi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mister-mehedi/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-mehedieyh-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mehedieyh)
+-->
+[![Codeforces](https://img.shields.io/badge/Codeforces-mehedieyh-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mister_mehedi/)
 
 ---
 
