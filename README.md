@@ -16,6 +16,8 @@
 
 AI Enthusiast and Backend Developer with a strong foundation in building and deploying scalable applications using Python and FastAPI. Skilled in containerization with Docker, CI/CD automation, and cloud deployment on AWS within Linux environments. Combines research-driven machine learning development with robust algorithmic problem-solving and software engineering practices to deliver reliable, efficient, and AI-powered solutions.
 
+Speacialized on: Backend Development | Machine Learning | Ci/CD | Cloud
+
 <!--
 - 🔭 **Currently working on:** BI automation, ETL workflows, and interactive dashboards
 - 🌱 **Learning:** Advanced data engineering and machine learning techniques
