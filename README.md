@@ -1,22 +1,25 @@
 # Md Mehedi Hasan
 
-**Junior Programmer**
-<!--**Junior Programmer | Data Enthusiast | Competitive Coder**-->
+**Software Engineer**
 
+Backend Development | Machine Learning | Ci/CD | Cloud
+
+<!--
 [![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Mehedi_Hasan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedieyh/)
+-->
 <!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-mister--mehedi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mister-mehedi/)
 -->
+<!--
 [![Codeforces](https://img.shields.io/badge/Codeforces-mehedieyh-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mister_mehedi/)
+-->
 
 ---
 
 ## About Me
 
 AI Enthusiast and Backend Developer with a strong foundation in building and deploying scalable applications using Python and FastAPI. Skilled in containerization with Docker, CI/CD automation, and cloud deployment on AWS within Linux environments. Combines research-driven machine learning development with robust algorithmic problem-solving and software engineering practices to deliver reliable, efficient, and AI-powered solutions.
-
-Speacialized on: Backend Development | Machine Learning | Ci/CD | Cloud
 
 <!--
 - 🔭 **Currently working on:** BI automation, ETL workflows, and interactive dashboards
@@ -28,6 +31,21 @@ Speacialized on: Backend Development | Machine Learning | Ci/CD | Cloud
 ---
 
 ## 🛠️ Technical Skills
+
+Programming Language: 
+
+    -  Proficient: Python, SQL 
+
+    -  Familiar: C/C++, Javascript 
+
+Frontend Development: React, Tailwind CSS, daisyUI 
+
+Backend Development: FastAPI, Node.js, Express.js, PostgreSQL 
+
+Machine Learning: PyTorch, TensorFlow, Deep Learning, NLP, Transformer Models 
+
+Tools: Linux, Git, GitHub, Postman, Docker, AWS, EC2
+<!--
 >“Code is poetry with purpose.”🚀
 
 ### Programming Languages
@@ -60,14 +78,16 @@ Speacialized on: Backend Development | Machine Learning | Ci/CD | Cloud
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+-->
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mister-mehedi&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mister-mehedi&layout=compact&theme=radical)
+-->
 
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mister-mehedi&theme=radical)
@@ -111,10 +131,18 @@ Browser-based word guessing game with intuitive keyboard and UI controls.
 -->
 ## 📫 Let's Connect
 
+[![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Mehedi_Hasan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedieyh/)
+<!--
+[![LeetCode](https://img.shields.io/badge/LeetCode-mister--mehedi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mister-mehedi/)
+-->
+[![Codeforces](https://img.shields.io/badge/Codeforces-mehedieyh-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mister_mehedi/)
+<!--
 - 📧 Email: [mehedieyh@gmail.com](mailto:mehedieyh@gmail.com)
 - 💼 LinkedIn: [Md Mehedi Hasan](https://www.linkedin.com/in/mehedieyh/)
 - 🏆 Codeforces: [mehedieyh](https://codeforces.com/profile/mister_mehedi)
 - 🟨 LeetCode: [mister-mehedi](https://leetcode.com/u/mister_mehedi/)
+-->
 
 <!--
 ⭐️ From [mister-mehedi](https://github.com/mister-mehedi)
