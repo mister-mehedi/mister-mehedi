@@ -14,7 +14,7 @@
 
 ## About Me
 
-🎓 CSE graduate from North South University, now Junior Programmer at Opus Technology Ltd. Skilled in backend (Spring Boot, SQL), data processing (ETL, Tableau), and Machine Learning research. Solved 1000+ competitive programming problems with ICPC achievements. Built secure REST APIs, LMS platforms, and React-based web apps.
+AI Enthusiast and Backend Developer with a strong foundation in building and deploying scalable applications using Python and FastAPI. Skilled in containerization with Docker, CI/CD automation, and cloud deployment on AWS within Linux environments. Combines research-driven machine learning development with robust algorithmic problem-solving and software engineering practices to deliver reliable, efficient, and AI-powered solutions.
 
 <!--
 - 🔭 **Currently working on:** BI automation, ETL workflows, and interactive dashboards
