@@ -1,8 +1,8 @@
 # Md Mehedi Hasan
 
-**Software Engineer**
+**Research Assistant @ NSU | SWE @ TripBooking.ai**
 
-Backend Development | Machine Learning | Ci/CD | Cloud
+Deep Learning - Computer Vision & Natural Language Processing || Backend Development || Ci/CD || Cloud
 
 <!--
 [![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
@@ -16,11 +16,11 @@ Backend Development | Machine Learning | Ci/CD | Cloud
 -->
 
 ---
-
+<!--
 ## About Me
 
 AI Enthusiast and Backend Developer with a strong foundation in building and deploying scalable applications using Python and FastAPI. Skilled in containerization with Docker, CI/CD automation, and cloud deployment on AWS within Linux environments. Combines research-driven machine learning development with robust algorithmic problem-solving and software engineering practices to deliver reliable, efficient, and AI-powered solutions.
-
+-->
 <!--
 - 🔭 **Currently working on:** BI automation, ETL workflows, and interactive dashboards
 - 🌱 **Learning:** Advanced data engineering and machine learning techniques
@@ -129,14 +129,18 @@ Browser-based word guessing game with intuitive keyboard and UI controls.
 
 ---
 -->
+<!--
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Mehedi_Hasan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedieyh/)
+-->
 <!--
 [![LeetCode](https://img.shields.io/badge/LeetCode-mister--mehedi-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/mister-mehedi/)
 -->
+<!--
 [![Codeforces](https://img.shields.io/badge/Codeforces-mehedieyh-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mister_mehedi/)
+-->
 <!--
 - 📧 Email: [mehedieyh@gmail.com](mailto:mehedieyh@gmail.com)
 - 💼 LinkedIn: [Md Mehedi Hasan](https://www.linkedin.com/in/mehedieyh/)
