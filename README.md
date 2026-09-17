@@ -1,8 +1,10 @@
 # Md Mehedi Hasan
 
+<!--
 **Research Assistant @ NSU | SWE @ TripBooking.ai**
 
 Deep Learning - Computer Vision & Natural Language Processing || Backend Development || Ci/CD || Cloud
+-->
 
 <!--
 [![Email](https://img.shields.io/badge/Email-mehedieyh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehedieyh@gmail.com)
@@ -32,18 +34,14 @@ AI Enthusiast and Backend Developer with a strong foundation in building and dep
 
 ## 🛠️ Technical Skills
 
-Programming Language: 
-
-    -  Proficient: Python, SQL 
-
-    -  Familiar: C/C++, Javascript 
-
+Programming Language: C, C++, Java, Python, JavaScript
+<!--
 Frontend Development: React, Tailwind CSS, daisyUI 
 
 Backend Development: FastAPI, Node.js, Express.js, PostgreSQL 
 
 Machine Learning: PyTorch, TensorFlow, Deep Learning, NLP, Transformer Models 
-
+-->
 Tools: Linux, Git, GitHub, Postman, Docker, AWS, EC2
 <!--
 >“Code is poetry with purpose.”🚀
